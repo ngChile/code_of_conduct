@@ -2,7 +2,7 @@
 
 Este documento tiene como fin proporcionar a toda la comunidad de Angular Chile el código de conducta bajo el cual se rigen nuestras actividades, eventos, meetups, etc.
 
-Nuestro objetivo es proporcionar un ambiente grato, ameno y de respeto e inclusión en nuestra comunidad, por tanto, se establece que los fundadores y miembros del staff tomarán las medidas pertinentes en caso de que se incumpla alguno de los puntos nombrados a continuación.
+Nuestro objetivo es generar un ambiente grato, ameno y de respeto e inclusión en nuestra comunidad, por tanto, se establece que los fundadores y miembros del staff tomarán las medidas pertinentes en caso de que se incumpla alguno de los puntos nombrados a continuación.
 
 ### Está estrictamente prohibido y no se tolerará:
 
@@ -19,4 +19,4 @@ Angular Chile actuará de la manera que considere necesaria, pudiendo estas llev
 
 ---
 
-### Somos una comunidad inclusiva que valora la diversidad. Si no estás de acuerdo con esto, probablemente no debas estar en nuestros eventos.
+### Somos una comunidad inclusiva que valora la diversidad. Si no estás de acuerdo con esto, probablemente no debas estar en nuestros eventos. (tomado de @noders :smile:)
