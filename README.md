@@ -19,4 +19,6 @@ Angular Chile actuará de la manera que considere necesaria, pudiendo estas llev
 
 ---
 
-### Somos una comunidad inclusiva que valora la diversidad. Si no estás de acuerdo con esto, probablemente no debas estar en nuestros eventos. (tomado de @noders :smile:)
+### Somos una comunidad inclusiva que valora la diversidad. Si no estás de acuerdo con esto, probablemente no debas estar en nuestros eventos.*
+
+*(Tomado de Noders Chile :smile:)
