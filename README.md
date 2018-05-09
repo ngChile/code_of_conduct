@@ -1,6 +1,6 @@
 # Código de Conducta
 
-Este documento tiene como fin proporcionar a toda la comunidad de Angular Chile el código de conducta bajo el cual se rigen nuestras actividades, eventos, meetups, etc.
+Este documento tiene como fin proporcionar a toda la comunidad de Angular Chile el código de conducta bajo el cual se rigen nuestras actividades, eventos, meetups, redes sociales y canales de comunicación.
 
 Nuestro objetivo es generar un ambiente grato, ameno y de respeto e inclusión en nuestra comunidad, por tanto, se establece que los fundadores y miembros del staff tomarán las medidas pertinentes en caso de que se incumpla alguno de los puntos nombrados a continuación.
 
